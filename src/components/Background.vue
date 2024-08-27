@@ -1,4 +1,4 @@
- <template>
+ <template> 
   <div :class="store.backgroundShow ? 'cover show' : 'cover'">
     <img
       v-show="store.imgLoadStatus"
