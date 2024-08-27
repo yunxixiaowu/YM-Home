@@ -10,12 +10,12 @@
     "link": "https://pan.stvue.com/"
   },
   {
-    "icon": "Book",
+    "icon": "AddChartFilled",
     "name": "图床",
     "link": "https://img.stvue.com/"
   },
   {
-    "icon": "LaptopCode",
+    "icon": "DnsServices",
     "name": "予梦DNS",
     "link": "https://dns.stvue.com/"
   }
