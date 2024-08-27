@@ -67,6 +67,8 @@ const siteIcon = {
   Cloud,
   CompactDisc,
   Compass,
+  AddChartRound,
+  DnsServices,
   Book,
   Fire,
   LaptopCode,
