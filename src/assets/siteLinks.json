@@ -9,6 +9,11 @@
     "name": "网盘",
     "link": "https://pan.stvue.com/"
   },
+    {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.imsyy.top/"
+  },
   {
     "icon": "AddChartFilled",
     "name": "图床",
@@ -18,5 +23,10 @@
     "icon": "DnsServices",
     "name": "予梦DNS",
     "link": "https://dns.stvue.com/"
-  }
+  },
+    {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.imsyy.top/"
+  }  
 ]
